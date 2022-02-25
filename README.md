@@ -13,4 +13,6 @@ A few organisation ettiquettes:
 
 We love to see people learn and grow, and we are happy to support you in your journey. We are all on the same waka!
 
+You will be given access to one or more respositories based on your research topic.
+
 
